@@ -59,4 +59,6 @@ dependencies {
 
     implementation("com.google.android.gms:play-services-mlkit-document-scanner:16.0.0-beta1")
     implementation("io.coil-kt.coil3:coil-compose:3.2.0")
+    implementation(libs.androidx.material.icons.extended)
+
 }
