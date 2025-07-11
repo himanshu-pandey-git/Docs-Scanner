@@ -32,7 +32,7 @@ cd DocsScanner
 
 ## 🛡️ **License**
 
-This project is open source under the **MIT License**.  
+This project is open source under the **Apache-2.0 license**.  
 Feel free to use, modify, and share!
 
 ---
